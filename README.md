@@ -11,7 +11,7 @@
   select SUM(data_length) sod, SUM(index_length) soi
   from INFORMATION_SCHEMA.TABLES) t1;
 ```
-![12-5-1](./hw-12-5/12-5-1.sql)
+![12-5-1](./hw-12-5/12-5-1.png)
 
 ---
 
